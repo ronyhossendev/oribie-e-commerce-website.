@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../common/Container";
 import Flex from "../common/Flex";
-import Image from "../common/image";
+import Image from "../common/Image";
 import logo from "/src/assets/logo.png";
 import { Link, Navigate, useNavigate } from "react-router-dom";
 import { FaBars, FaUser, FaCaretDown, FaShoppingCart } from "react-icons/fa";
