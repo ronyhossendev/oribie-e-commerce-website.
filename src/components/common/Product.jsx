@@ -1,6 +1,6 @@
 import React from 'react'
 import Badge from './Badge'
-import Image from './image'
+import Image from './Image'
 import Container from './Container'
 import { FaHeart, FaShoppingCart } from 'react-icons/fa'
 import { TbGitCompare } from 'react-icons/tb'
